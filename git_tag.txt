@@ -1,0 +1,2 @@
+git tag -a v1 -m "第一版"	添加版本注释
+git push origin --tags	上传到仓库
